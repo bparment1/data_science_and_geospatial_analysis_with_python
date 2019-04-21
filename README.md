@@ -3,12 +3,14 @@ This course contains materials that I have developped over the years for trainin
 
 The course material is organized in different lessons/classes:
 
-*1 Introduction to python 
+1. Introduction to python 
 
-*2 Vulneratbility to lead in Syracuse: Introduction to spatial analysis and regression 
+2. Vulneratbility to lead in Syracuse: Introduction to spatial analysis and regression 
 
-*3 Temperature prediction using satellite imagery: Introduction to regression  
+3. Temperature prediction using satellite imagery: Introduction to regression  
 
-*4 Predicting urban growth in Houston: An introduction to Land Change modeling
+4. Predicting urban growth in Houston: An introduction to Land Change modeling
 
-*5 Hurricane Impact: interactive mapping using Folium and Leaflet
+5. Hurricane Impact: interactive mapping using Folium and Leaflet
+
+6. Temperature prediction methods comparison: Machine Learning introduction  
