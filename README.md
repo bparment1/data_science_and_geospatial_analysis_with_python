@@ -5,7 +5,7 @@ The course material is organized in different lessons/classes:
 
 1. Introduction to python 
 
-2. Vulneratbility to lead in Syracuse: Introduction to spatial analysis and regression 
+2. Vulnerability to lead in Syracuse: Introduction to spatial analysis and regression 
 
 3. Temperature prediction using satellite imagery: Introduction to regression  
 
