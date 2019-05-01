@@ -15,3 +15,5 @@ The course material is organized in different lessons/classes:
 5. Hurricane Impact: interactive mapping using Folium and Leaflet
 
 6. Temperature prediction methods comparison: Machine Learning introduction  
+
+7. Flooding study: classification of flooding areas using MODIS satellite image data. 
