@@ -20,4 +20,4 @@ The course material is organized in different lessons/classes:
 
 8. Time Series forecasting with ARIMA: An example with Vegetation index from satellite
 
-9. Trends and Seasonality: Trends in vegegation using Harmonic regression.
+9. Trends and Seasonality: Trends in vegetation using Harmonic regression.
