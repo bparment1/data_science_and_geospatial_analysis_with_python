@@ -16,8 +16,10 @@ The course material is organized in different lessons/classes:
 
 6. Temperature prediction methods comparison: Machine Learning introduction  
 
-7. Flooding study: classification of flooding areas using MODIS satellite image data. 
+7. Binary classification method comparison: Machine Learning introduction
 
-8. Time Series forecasting with ARIMA: An example with Vegetation index from satellite
+8. Flooding study: classification of flooding areas using MODIS satellite image data. 
 
-9. Trends and Seasonality: Trends in vegetation using Harmonic regression.
+9. Time Series forecasting with ARIMA: An example with Vegetation index from satellite
+
+10. Trends and Seasonality: Trends in vegetation using Harmonic regression.
