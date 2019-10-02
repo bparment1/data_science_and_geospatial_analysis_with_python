@@ -23,3 +23,5 @@ The course material is organized in different lessons/classes:
 9. Time Series forecasting with ARIMA: An example with Vegetation index from satellite
 
 10. Trends and Seasonality: Trends in vegetation using Harmonic regression.
+
+11. Spatial interpolation using Gaussian Process Regression: temperature application.
